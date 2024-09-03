@@ -2,7 +2,7 @@
 ### Requirements
 * Must have `python3` installed 
 
-from the root (./sampleBackend) directory run:
+from the root directory run:
 
 ```bash
 cd backend
